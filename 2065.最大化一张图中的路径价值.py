@@ -1,0 +1,11 @@
+#
+# @lc app=leetcode.cn id=2065 lang=python3
+#
+# [2065] 最大化一张图中的路径价值
+#
+
+# @lc code=start
+class Solution:
+    def maximalPathQuality(self, values: List[int], edges: List[List[int]], maxTime: int) -> int:
+# @lc code=end
+
